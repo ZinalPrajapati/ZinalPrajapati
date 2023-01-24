@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning more about Web development.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: zinal.prajapati@excellentwebworld.in
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Spaces are better than tabs
 
 ## 🌐 Socials:
