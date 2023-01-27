@@ -18,5 +18,3 @@
 
 <p><a href="https://www.buymeacoffee.com/zinalp83"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zinalp83" /></a></p><br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=ZinalPrajapati&icon=6&color=11)](https://visitcount.itsvg.in)
